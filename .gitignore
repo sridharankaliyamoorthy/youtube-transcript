@@ -1,18 +1,14 @@
+
 __pycache__/
-.venv/
-.DS_Store
 *.pyc
 *.pyo
 *.pyd
-env/
-venv/
-build/
-dist/
-eggs/
-*.egg-info/
-pip-wheel-metadata/
-
-# optional: large transcript outputs (uncomment to ignore)
-# transcript.txt
-# questions.txt
-# qa.txt
+.env
+.venv/
+output/
+outputs/
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+*.log

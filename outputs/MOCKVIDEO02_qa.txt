@@ -1,0 +1,311 @@
+Q1: what if I told you that about 70% of candidates fail their technical?
+A1: interviews and guess what python
+
+Q2: interviews and guess what python questions are the biggest challenge so if you're someone who's going to attend?
+A2: a python interview soon but don't know
+
+Q3: what sort of questions you might face then you've landed at the right place python is undoubtedly one of the most?
+A3: popular programming languages today it's a Top Choice for both season developers and beginners Python's flexibility and wide range of users makes it an invaluable tool in the software development field experts predict that
+
+Q4: question number one what is the difference between a module and a package in this particular answer there?
+A4: are three pointers that are necessary a
+
+Q5: are three pointers that are necessary a module is a single file or multiple files containing python code this code?
+A5: can Define functions classes and
+
+Q6: can Define functions classes and variables typically a module is a python file ending with a py extension modules?
+A6: help organize and reuse code by grouping related code together for example you
+
+Q7: can have a module Fu that contains all the mathematical functions you need for a project making your code cleaner and?
+A7: more manageable now as for packages a package on the other hand is a collection of modules organized in a directory hierarchy packages allow for a structured organization of related modules making it easier to manage large
+
+Q8: related modules together which helps avoid module name collisions and organize code in a scalable manner so to?
+A8: sum it up modules are single files with python code perfect for grouping related functions classes and variables packages
+
+Q9: are directories of modules organized in a way that scales well for larger projects both are essential for writing?
+A9: clean organized and reusable python code moving on to question number two is python a compile language or an interpreted language python is primarily uninterpreted language this means that python code is executed line by line by
+
+Q10: partially compiled when you run a Python program the source code is first?
+A10: compiled into bite code and what is bite
+
+Q11: compiled into bite code and what is bite code bite code is an intermediate low-level representation of your code?
+A11: that is more abstract than machine code but still not human readable once the source code is compiled into bite code this bite code is executed by the python interpretor the interpretor reads and executes the bite code line by line
+
+Q12: three what are the benefits of using Python language as a tool in the present scenario now this question is not asked?
+A12: regularly but if you're targeting top tier companies then you should probably take a look at this question that fan companies might ask you during the interview process so first up Simplicity Python's easy to read and write syntax
+
+Q13: which accelerate development and implementation next will talk about the strong Community Support a large active?
+A13: Community provides extensive documentation tutorials and forums ensuring continuous learning and support then we'll talk about portability python
+
+Q14: is a platform independent running seamlessly on Windows Mac OS and Linux?
+A14: which simplifies development and
+
+Q15: which simplifies development and deployment across different environments next we'll talk about the development?
+A15: speed its Simplicity and Powerful life liaries enabled rapid prototyping and quick iteration reducing time to Market and enhancing adaptability then we'll talk about Dynamic typing Python's Dynamic typing
+
+Q16: four what are Global protected and private attributes in Python now this is one of the most important questions?
+A16: asked by the interviewers so Global variables are public variables defined in the global scope to use a global variable inside a function the global keyword is required protected attributes
+
+Q17: are marked with a single underscore while they can still be access and modified from outside the?
+A17: class responsible developers should avoid doing so private attributes are marked with a double underscore these cannot be accessed or modified directly from outside the class and any such attempt will result in an attribute
+
+Q18: three distinct variables in Python what?
+A18: is pandas this is a very basic question
+
+Q19: is pandas this is a very basic question the interviewers may not ask this but you should know about this Library so?
+A19: pandas is an open-source python Library
+
+Q20: which supports data structures for databased operations associated with data analyzing and data manipulations p?
+A20: with its Rich sets of features fits in every role of data operation whether it be related to implementing different algorithms or solving complex business problems pandas helps to deal with a number of files in performing certain
+
+Q21: next up question number seven how is exceptional handling done in Python well in Python the main keywords for handling?
+A21: exceptions are try accept and finally the try block contains the code that is monitored for errors if an error occurs the except block is executed to handle the exception the finally block has the unique feature of executing code after
+
+Q22: eight what is the difference between for Loop Loop and while loop in Python while this might seem like a niche topic it's?
+A22: a favorite among interviewers so having a solid grasp on it can give you a Competitive Edge the for Loop is commonly used to iterate through elements of various collections such as lists tles sets and dictionaries
+
+Q23: developers use the for Loop when they?
+A23: have both straight and ending conditions
+
+Q24: have both straight and ending conditions on the other hand the Y Loop is standard looping construct used in many?
+A24: programming languages programmers use a
+
+Q25: while loop in Python when they have only the ending condition to specify moving on to question number?
+A25: nine is indentation required in Python yes indentation is required in Python because the python interpretor uses
+
+Q26: indentation to determine which statements belong to a specific block of code while indentation improves code?
+A26: readability in all programming languages it is especially crucial in python as it defines the structure and flow of the code then moving on to question number
+
+Q27: 10 what is the use of Self in Python self is used to represent an instance of the class with this keyword you can?
+A27: access the attributes and methods of the class in Python finding the attributes with the provided arguments although commonly used in various places self is often mistaken for a keyword unlike in C++ self is not a keyword in Python next
+
+Q28: question number 11 how does python manage memory explain the role of reference counting and garbage?
+A28: collection expect this question to be a major part of your interview it's fundamental to many roles and gives interviewers insight into your analytical skills and logical thinking python uses reference counting to track
+
+Q29: number 13 how is memory management done in Python this is one of those questions that separates the good candidates from?
+A29: the great ones especially when
+
+Q30: the great ones especially when interviewing with top tier tech companies python manages memory using a?
+A30: private Heap space where all objects and
+
+Q31: private Heap space where all objects and data structures are stored programmers cannot directly access this private Heap?
+A31: it is managed by the python interpretor additionally python has a built-in garbage collector that automatically recycles unused memory freeing it up and making it available for future use then moving on to question number 14 how to
+
+Q32: question number 15 which sorting technique is used by sort and sorted functions of python so python uses the?
+A32: Tim sort algorithm for sorting which
+
+Q33: Tim sort algorithm for sorting which means stable sorting method with a worst case complexity of o n log n Tim sord is?
+A33: a hybrid algorithm derived from merge sword and insertion sword designed to perform efficiently on various types of real world data question number 16 differentiate between list and tle this
+
+Q34: is a go-to question for interviewers to assess your depth of understanding and knowledge list are defined using square?
+A34: brackets while tles use parentheses list
+
+Q35: are mutable so so we can modify them we?
+A35: can change their elements add or remove
+
+Q36: can change their elements add or remove elements in contrast tles are immutable so we cannot change their elements once?
+A36: they are created so to sum it up lists
+
+Q37: are mutable consume more memory and have slower insertion deletion and iteration speed due to Dynamic allocation whereas?
+A37: stles are immutable more memory efficient and offer faster iteration but
+
+Q38: do not support insertion and deletion?
+A38: question number number 17 what is
+
+Q39: question number number 17 what is slicing in python python slicing is an operation used to extract a portion of a?
+A39: string or a list by specifying the start end and step you can determine the exact segment to extract slicing a list results in a new list created from the specified portion of the original list the Syntax for slicing in Python is
+
+Q40: sequence start stop and step where start?
+A40: index is where the slice Begins the
+
+Q41: index is where the slice Begins the element at this index is included in the slice if omitted it defaults to the?
+A41: beginning of the sequence then we have
+
+Q42: stop stop is the index where the slice ends the element at this index is not included in the slice if omitted it?
+A42: defaults to end of the sequence then we
+
+Q43: have step this is the interval between elements in the slice if omitted it defaults to one meaning every element?
+A43: between start and stop is in included this slicing syntax allows you to extract a subsequence from a given sequence such as list Tuple or string
+
+Q44: question number 18 how is multi-threading achieved in Python multi-threading in Python is achieved?
+A44: using the threading module which enables
+
+Q45: using the threading module which enables the concurrent execution of multiple threads within a single process each?
+A45: thread can run its own code and perform tasks simultaneously however due to Python's Global inter operator lock only one thread can execute python bite code at a
+
+Q46: time per process which limits the performance benefits for CPU bound tasks despite this multi- threading is?
+A46: effective for input output bound tasks such as file operations or network
+
+Q47: communication where the global interpretor locks impact is minimal next?
+A47: up question number 19 which is faster
+
+Q48: up question number 19 which is faster python list or numpy arrays you won't encounter this question in every?
+A48: interview but it's a common challenge in technical interviews so make sure you're prepared in general numpy Aras are faster than python list for numerical computations and operations involving large data sets this is because numai
+
+Q49: are scenarios where python lists may be?
+A49: more suitable such as when dealing with
+
+Q50: more suitable such as when dealing with?
+A50: heterogenous data types or when
+
+Q51: heterogenous data types or when flexibility is more critical than performance ultimately the choice?
+A51: between Python list and numpy array depends on the specific requirements of the task at hand moving on to question number 20 explain inheritance in Python while not every interview will include this question it's often used to test
+
+Q52: how are classes created in Python in Python classes are created using the class keyword followed by the class name?
+A52: and a column inside the class methods and attributes are defined here's a basic example this code defines a class my class with a shared class attribute an instance attribute set during object creation and a method that returns a
+
+Q53: solving skills which are crucial for any programming role the Fibonacci series or Fibonacci sequence is a sequence of?
+A53: numbers where each number is the sum of
+
+Q54: numbers where each number is the sum of two preceding ones it usually starts with zero and one this program defines a?
+A54: function Fibonacci that generates the first end terms of the Fibonacci series it starts with a list containing the first two Fibonacci numbers 0o and 1 and then continues to append the sum of the last two numbers in the list until it
+
+Q55: question number 23 what is the difference between shallow copy and deep copy in Python let's take a look at the?
+A55: key differences according to Shared references in a shallow copy references to objects are shared between the original and the copy in in a deep copy all objects are fully copied so no references are shared according to
+
+Q56: what is the process of compilation and linking in Python the process of compilation in Python involves?
+A56: converting the source code written by the programmer into a form that can be executed by the python interpretor in Python the process of linking is not explicit and complex in compiled languages like C or C++ however it
+
+Q57: next question number 25 what is break continue and pass in Python this is also a common question you should prepare for?
+A57: break the break statement immediately ends the loop and transfers control to the first statement following the Loop's body continue the continue statement ends the current iteration of the loop skips the remaining code in this
+
+Q58: question number 26 what is p8 p8 is the python enhancement proposal that provides guidelines and best?
+A58: practices on how to write python code it
+
+Q59: practices on how to write python code it?
+A59: is essentially the style guide for
+
+Q60: is essentially the style guide for python code helping developers write code that is readable and consistent by?
+A60: following p8 developers ensure their code is readable maintainable and consistent with the broader python
+
+Q61: Community which facilitates collaboration and reduces misunderstandings question number 27?
+A61: what is an expression an expression in
+
+Q62: what is an expression an expression in Python and in programming in general is a combination of values variables?
+A62: operators and calls to function that the language interpretor evaluates to produce another value expressions are fundamental building blocks in python as they represent computations moving to
+
+Q63: question number 28 what is double equals in Python in Python double equals is the equality operator it is used to compare?
+A63: two values to determine if they are equal if the values on the either side of the double operator are equal the expression evaluates to True otherwise it evaluates to false moving to question
+
+Q64: number 29 what is Type conversion in Python type conversion in Python refers to the process of converting a value?
+A64: from one data type to another this can
+
+Q65: be necessary when you need to perform operations on data that require it to be in a specific format or type some common?
+A65: type conversion functions are mentioned as below int converts a value to an integer float converts a value to a float s Str converts a value to a string list converts a value to a list tle converts a value to a tuple set converts
+
+Q66: first question question number 31 what?
+A66: is the difference between X range and
+
+Q67: is the difference between X range and range in functions this is also one of the most common questions asked in?
+A67: Python range and X range functions are used to iterate a specific number of times in for Loops the range function returns a list of numbers the xrange function Returns the generator object that can display only numbers by looping
+
+Q68: question number 32 what is the zip function zip function returns a zip object that Maps multiple containers?
+A68: identical indexes it accepts an iterable transforms it into an iterator and Aggregates the elements depending on iterables past furthermore it returns an iterator of tles moving to question
+
+Q69: number 33 what is Jango architecture one of the important p Via questions Jango?
+A69: is a highlevel web framework built in
+
+Q70: is a highlevel web framework built in Python that allows rapid development of maintainable and secure websites its?
+A70: architecture consists of model where the
+
+Q71: architecture consists of model where the data is managed and stored in the?
+A71: backend then template where the data is
+
+Q72: backend then template where the data is stored in the front end of the web page?
+A72: then view where functions accepts the
+
+Q73: then view where functions accepts the web request and delivers the web?
+A73: responses next question number 34 what
+
+Q74: responses next question number 34 what?
+A74: is inher itance and python you will
+
+Q75: is inher itance and python you will frequently encounter this question in interviews inheritance allows a class to?
+A75: get all members of another class the members can be methods attributes or both with reusability inheritance stream lines and applications development and maintainance there are four types of inheritance in Python there are single
+
+Q76: Python for example when you were duck typing and things appear like a duck it?
+A76: is regarded as a duck although it is
+
+Q77: is regarded as a duck although it is merely a stamp or flag in this case the code has a runtime error another example?
+A77: is the print hacker IO that shows the
+
+Q78: is the print hacker IO that shows the runtime error due to the missing parentheses in?
+A78: print moving on to question number 37
+
+Q79: what are doc strings in Python one of the most important question doc strings or documentation strings are multi-line?
+A79: strings used to document a specific code segment doc strings usually come within triple quotes and should ideally
+
+Q80: describe what a function or method does although they are not comments doc strings sometimes serve the purpose of?
+A80: comments since they are not assigned to any variable now moving to question number
+
+Q81: 38 how can you capit capitalize the first letter of a string in Python in Python you can use the capitalize method?
+A81: to capitalize the first letter of a string however if a string already consists of a capital letter at the beginning it will return to the original string moving on to question number 39
+
+Q82: what are generators in Python generators?
+A82: are most important python functions that
+
+Q83: are most important python functions that return an iterable collection of items one at a time in an organized manner?
+A83: generally generators are used to create iterators with a different approach they use of yield keyword rather than return to return a generator object moving to
+
+Q84: question number 40 how to write commands in Python it's very likely that you'll face this question in your interview so?
+A84: in Python commands start with a hash character however sometimes you can also write commands using doc strings strings enclosed within triple unlike C++ python does not support
+
+Q85: multi-line commands here's how a command?
+A85: is written in Python line one of command
+
+Q86: is written in Python line one of command line two of command moving to question?
+A86: number 41 what is g g or the global
+
+Q87: number 41 what is g g or the global interpreter lock is a mutex used to limit access to python objects it?
+A87: synchronizes threads and prevents them from running at the same time moving to question number 42 is D Jango better than flask well D Jango is better suited for large complex applications with many built-in features while flask is better
+
+Q88: project requirements question number 43 what is flask explain its benefits flask?
+A88: [No answer found]
+
+Q89: is a lightweight and flexible web framework for python that provides the essential tools to build web?
+A89: applications making it easy to get started and scaled as needed then we
+
+Q90: have Simplicity and minimalism flask is easy to learn and use making it ideal for beginners and quick development of?
+A90: small to mediumsized Applications then flexibility it provides complete control over application components and structure allowing High customization to meet specific needs then modular and
+
+Q91: practices next question number 44 what?
+A91: is PIP you won't find this question in
+
+Q92: is PIP you won't find this question in every interview but it's a regular feature in technical interviews to test?
+A92: your understanding pip is an acronym for
+
+Q93: python installer package which provides a seamless interface to install various python modules it is a command line tool?
+A93: that can search for packages over the internet and install them without any user interaction moving to question
+
+Q94: number 45 how can you ensure that your python code is compatible with python 2 and Python 3 to write code that is?
+A94: compatible with with both python 2 and 3 you can use the future module to import python 3.x Behavior into python 2.x code use a compatibility Library like six or future to bridge differences follow best practices for writing compatible code
+
+Q95: question number 46 what is the difference between modulus operator division operator and floor division?
+A95: operator the modulus operator is the
+
+Q96: modulo operator which Returns the remainder of a division for instance five modulus 2 would return one the?
+A96: division operator performs floating Point Division and returns of float for example 5 division 2 would return 2.5 the floor division divion operator performs division but rounds down the result to the nearest whole number so
+
+Q97: moving to question number 47 why doesn't python deallocate all memory upon exit whenever python exits especially those?
+A97: python modules which are having circular
+
+Q98: python modules which are having circular references to other objects or objects that are reference from the global name?
+A98: spaces the memory is not always deallocated or freed it is not possible to deallocate Those portions of memory that are reserved by the ca library on exit because of having its own efficient cleanup mechanism python will try to
+
+Q99: is a set known as unordered is it mutable or immutable make sure you have a solid understanding of this concept a?
+A99: set is called unordered because the items in a set don't have specific order or sequence like a list does it's more like a collection of items and you can't access them by their position sets in
+
+Q100: Python are mutable which means you can add or remove items from a set after it's created however the items within?
+A100: the set are themselves immutable meaning they cannot be changed you can add or remove elements from a set but you can't modify the elements themselves once they
+
+Q101: are in the set moving to question number?
+A101: 49 what is the difference between data
+
+Q102: 49 what is the difference between data frames and series a series is a one-dimensional array like object in?
+A102: pandas that can hold any data type while a data frame is a two-dimensional table like structure with potentially heterogeneously typed columns you can think of a data frame as a collection of series objects that share the same index
+
+Q103: number 50 what does Len do the Len function is used to determine the length of various data types such as strings?
+A103: list errors Etc with that we conclude our python interview preparation for today if you're preparing for python
+
+Q104: interviews you are probably someone who wants to be the master of tech World join our Job Link data science and AI?
+A104: advanced boot camp at upgrad and gain the skills employers are looking for with the Practical industry aligned curriculum and Hands-On project you'll not only learn from season experts but also apply your knowledge to real world

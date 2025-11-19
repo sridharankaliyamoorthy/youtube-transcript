@@ -1,7 +1,10 @@
 youtube-transcript-api
 pytest
 fastapi
-uvicorn[standard]
+uvicorn
+fastapi
+youtube-transcript-api
+yt-dlp
 fastapi
 uvicorn
 

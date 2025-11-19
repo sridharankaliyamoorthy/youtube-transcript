@@ -1,33 +1,56 @@
-# youtube-transcript
+# YouTube Transcript Extractor
 
-Small utilities for fetching YouTube transcripts and extracting questions
-and question/answer pairs from the transcript text.
+A FastAPI web app and Python script to extract YouTube video transcripts, save them with video titles, and provide a browser UI for easy use.
 
-Usage examples:
+## Features
+- Paste any YouTube URL or video ID in the browser UI or script
+- Transcript saved in `output/` folder, with video title at the top
+- Download transcript files from the UI
+- Supports manual and async extraction
 
-1) Fetch a transcript into `transcript.txt`:
+## Quick Start (Web UI)
+1. Install dependencies:
+  ```bash
+  pip install -r requirements.txt
+  pip install yt-dlp
+  ```
+2. Start the server:
+  ```bash
+  uvicorn scripts.api_app:app --reload --port 8000
+  ```
+3. Open [http://127.0.0.1:8000/ui](http://127.0.0.1:8000/ui) in your browser
+4. Paste a YouTube URL and click Extract
 
-```bash
-python3 scripts/fetch_transcript.py VIDEO_ID
+## Quick Start (Script)
+1. Run:
+  ```bash
+  python3 youtube_transcript.py
+  ```
+2. Paste a YouTube URL or video id when prompted
+
+## Output
+- All transcript files are saved in the `output/` folder
+- Each transcript file starts with the video title and video id
+
+## Requirements
+- Python 3.8+
+- `youtube-transcript-api`
+- `yt-dlp` (for video title)
+- `fastapi`, `uvicorn`
+
+## Project Structure
+```
+output/                # All transcript and summary files
+scripts/api_app.py     # FastAPI backend
+youtube_transcript.py  # CLI script for transcript extraction
+yt_transcript_tools/   # Extraction logic
+requirements.txt       # Python dependencies
+Dockerfile             # For container deployment
+README.md              # This file
 ```
 
-2) Extract questions:
-
-```bash
-python3 scripts/extract_questions_cli.py transcript.txt -o questions.txt
-```
-
-3) Extract Q/A pairs:
-
-```bash
-python3 scripts/extract_qa_cli.py transcript.txt -o qa.txt
-```
-
-Notes:
-- The extractors use simple heuristics to find questions in the auto-generated
-  transcript. They are intentionally lightweight; for higher precision you can
-  integrate `spacy` or an ML-based QA model.
-- `requirements.txt` lists the runtime dependency: `youtube-transcript-api`.
+## License
+MIT
 Your repo is looking good for a first project—it has all key files!  
 To make it look **more professional and inviting**, here are some quick improvements:
 
