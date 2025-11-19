@@ -1,2 +1,7 @@
 youtube-transcript-api
 pytest
+fastapi
+uvicorn[standard]
+fastapi
+uvicorn
+
