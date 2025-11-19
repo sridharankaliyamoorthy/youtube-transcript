@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yt-transcript-tools"
+version = "0.0.1"
+description = "Small utilities to fetch YouTube transcripts and extract questions/QA pairs"
+authors = [ { name = "", email = "" } ]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
