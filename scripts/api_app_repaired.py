@@ -83,15 +83,6 @@ def root():
     return {"message": "YouTube Transcript API (repaired)"}
 
 
-@app.get("/extract/")
-def extract(youtube_url: str = Query(...), write_files: bool = Query(True), use_perplexity: bool = Query(False)):
-    try:
-        vid = extract_video_id(youtube_url)
-    except ValueError as e:
-        raise HTTPException(status_code=400, detail=str(e))
-    return _do_extraction(vid, write_files=write_files, use_perplexity=use_perplexity)
-
-
 @app.post('/extract_async')
 def extract_async(youtube_url: str = Query(...), write_files: bool = Query(True), use_perplexity: bool = Query(False), background_tasks: BackgroundTasks = None):
     try:
